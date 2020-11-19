@@ -9,7 +9,7 @@ Lambda function will need IAM role with following policies
 	- arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole  
 	- EC2 policy for AMI removal  
 Please set your environment variable for desired days.  
- [Env Vars](/img.png)
+![Env Vars](/img.png)
 
 ### Output
 ```shell
